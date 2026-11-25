@@ -1,0 +1,1 @@
+v2.4.1 — Fixed: brain no longer schedules all existential dread for 3:00 a.m.; dread now ships in daylight, where it belongs.
